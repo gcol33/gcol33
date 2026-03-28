@@ -1,20 +1,17 @@
-Follow my coding (mis)adventures. I write R, Rust, and C++.
+I build methods in R, Rust, and C++. When I have time
+I write about what I learn.
 
-## CRAN packages
+[**Thinking in R**](https://gillescolling.com/thinking-in-r/) is a free
+book on R's functional roots: lambda calculus, Scheme, S, and what that
+lineage means when you sit down to write code. 33 chapters, from first
+function call to metaprogramming.
 
-- **corrselect** — exhaustive variable selection below a correlation threshold
-- **couplr** — high-performance linear assignment solver
-- **BORG** — model evaluation under dependence
-- **ggguides** — legend and guide alignment for ggplot2
-- **hexify** — equal-area hexagonal grids (C++ core)
-- **keyed** — key-value integrity for flat files
-- **joinspy** — diagnose joins before they break
-- **areaOfEffect** — classify points by spatial support
-- **restrictR** — composable runtime contracts
+[**Null Hypothesis Accepted**](https://gillescolling.com/blog) is where
+I write about paradoxes, hidden structure, and questions that look simple
+until you do the arithmetic. Why the galaxy is silent. What happens when
+you divide two random numbers. How a prophet can be right ten times and
+know nothing.
 
-## Other things
-
-- [Thinking in R](https://github.com/gcol33/thinking-in-r) — open-source book on how R actually works
-- [Blog](https://gillescolling.com) — statistics, math, interactive simulations
-- [RESOLVE](https://github.com/gcol33/resolve) — neural network framework for species distribution modelling (PyTorch/C++/CUDA)
-- [frustumR](https://github.com/gcol33/frustumR) — GPU-accelerated 3D scientific visualization (Rust)
+R packages on [CRAN](https://cran.r-project.org/web/checks/check_results_gcolling_at_gmail.com.html).
+[RESOLVE](https://github.com/gcol33/resolve) is a neural network
+framework for species distribution modelling.
